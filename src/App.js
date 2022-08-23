@@ -1,4 +1,4 @@
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header";
 
@@ -7,7 +7,7 @@ import RouteTree from "./RouteTree.jsx";
 function App() {
   return (
     <div className="App">
-      <Router basename="/cutting-board">
+      <Router>
         <Header />
         <RouteTree />
       </Router>
