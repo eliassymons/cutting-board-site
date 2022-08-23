@@ -7,7 +7,7 @@ import RouteTree from "./RouteTree.jsx";
 function App() {
   return (
     <div className="App">
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <Header />
         <RouteTree />
       </Router>
