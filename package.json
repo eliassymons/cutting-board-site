@@ -1,6 +1,6 @@
 {
-  "name": "woodshop-react",
-  "homepage": "https://eliassymons.github.io/woodshop",
+  "name": "cutting-board",
+  "homepage": "https://eliassymons.github.io/cutting-board",
   "version": "0.1.0",
   "engines": {
     "node": "14.x"
@@ -10,8 +10,6 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh": "^2.8.9",
-    "pages": "0.0.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
