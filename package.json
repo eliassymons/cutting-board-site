@@ -1,5 +1,6 @@
 {
   "name": "woodshop-react",
+  "homepage": "https://eliassymons.github.io/woodshop",
   "version": "0.1.0",
   "engines": {
     "node": "14.x"
