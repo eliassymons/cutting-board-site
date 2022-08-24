@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cutting-board-site/static/css/main.19d2c5ef.css",
+    "main.js": "/cutting-board-site/static/js/main.dbcaf041.js",
+    "static/media/pexels-anna-shvets-5710875.jpg": "/cutting-board-site/static/media/pexels-anna-shvets-5710875.e5fd6465269b9024185e.jpg",
+    "static/media/pexels-clem-onojeghuo-175709.jpg": "/cutting-board-site/static/media/pexels-clem-onojeghuo-175709.858a309cfc7291001a5b.jpg",
+    "static/media/pexels-fwstudio-172289.jpg": "/cutting-board-site/static/media/pexels-fwstudio-172289.18ea378e1d7b45ea3850.jpg",
+    "static/media/pexels-vural-yavas-936190.jpg": "/cutting-board-site/static/media/pexels-vural-yavas-936190.777f8fceb390d57ba3ac.jpg",
+    "static/media/cutting-board4.jpg": "/cutting-board-site/static/media/cutting-board4.0be11840608cbd3c4662.jpg",
+    "static/media/cutting-board3.jpg": "/cutting-board-site/static/media/cutting-board3.5f249d7aff68ed4481bb.jpg",
+    "static/media/cutting-board2.webp": "/cutting-board-site/static/media/cutting-board2.dfb778326e2df36a5454.webp",
+    "static/media/cutting-board1.webp": "/cutting-board-site/static/media/cutting-board1.3cea56c050b2978fbb98.webp",
+    "static/media/Performa+Walnut+Wood+Cutting+Board.webp": "/cutting-board-site/static/media/Performa+Walnut+Wood+Cutting+Board.266fc8ad3f9e11fbfe34.webp",
+    "static/media/saw-blade.png": "/cutting-board-site/static/media/saw-blade.3e157460e179abd2431c.png",
+    "index.html": "/cutting-board-site/index.html",
+    "main.19d2c5ef.css.map": "/cutting-board-site/static/css/main.19d2c5ef.css.map",
+    "main.dbcaf041.js.map": "/cutting-board-site/static/js/main.dbcaf041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d2c5ef.css",
+    "static/js/main.dbcaf041.js"
+  ]
+}
